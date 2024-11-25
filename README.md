@@ -32,9 +32,9 @@ Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e ap
 
 ## 📫 Vamos Conectar?
 
-- **LinkedIn**: (https://www.linkedin.com/in/matheus-luiz-9856691a1/)
+- **LinkedIn**: https://www.linkedin.com/in/matheus-luiz-9856691a1/
 - **Portfólio**: ()
-- **Email**: (matheusluiz311@gmail.com)
+- **Email**: matheusluiz311@gmail.com
 
 ---
 
