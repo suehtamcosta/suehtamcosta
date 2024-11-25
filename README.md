@@ -25,8 +25,8 @@ Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e ap
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suehtamcosta&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suehtamcosta&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -36,7 +36,5 @@ Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e ap
 - **Portfólio**: ()
 - **Email**: matheusluiz311@gmail.com
 
----
 
-⭐️ *Adoro colaborar com projetos open-source e conhecer novas pessoas na comunidade tech. Vamos trocar ideias?*
 
