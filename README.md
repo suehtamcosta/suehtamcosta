@@ -34,4 +34,5 @@ Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e ap
 ---
 
 
-
+### 🔗 [Automatizador de Relatórios](https://github.com/seu-usuario/auto-relatorios)  
+Ferramenta que gera relatórios em FastReport a partir de consultas SQL dinâmicas.  
