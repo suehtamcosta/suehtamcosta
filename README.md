@@ -1,5 +1,5 @@
 # Olá, eu sou Matheus Luiz 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matheus-luiz-9856691a1/)  [![E-mail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:matheusluiz311@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/matheeusluiz/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matheus-luiz-9856691a1/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/matheeusluiz/)
 
 
 
