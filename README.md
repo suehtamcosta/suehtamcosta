@@ -31,8 +31,4 @@ Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e ap
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suehtamcosta&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suehtamcosta&show_icons=true&theme=tokyonight)
 
----
 
-
-### 🔗 [Automatizador de Relatórios](https://github.com/seu-usuario/auto-relatorios)  
-Ferramenta que gera relatórios em FastReport a partir de consultas SQL dinâmicas.  
