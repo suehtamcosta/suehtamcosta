@@ -1,4 +1,7 @@
 # Olá, eu sou Matheus Luiz 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)  
+[![E-mail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+
 
 Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e aprendizado contínuo. Estou sempre buscando maneiras de resolver problemas e criar soluções impactantes. 🚀
 
