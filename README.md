@@ -1,5 +1,6 @@
 # Olá, eu sou Matheus Luiz 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matheus-luiz-9856691a1/)  [![E-mail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:matheusluiz311@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matheus-luiz-9856691a1/)  [![E-mail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:matheusluiz311@gmail.com)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/matheeusluiz/)
+
 
 
 Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e aprendizado contínuo. Estou sempre buscando maneiras de resolver problemas e criar soluções impactantes. 🚀
@@ -31,12 +32,6 @@ Sou um **Analista de Testes Manuais** apaixonado por tecnologia, inovação e ap
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suehtamcosta&show_icons=true&theme=tokyonight)
 
 ---
-
-## 📫 Vamos Conectar?
-
-- **LinkedIn**: https://www.linkedin.com/in/matheus-luiz-9856691a1/
-- **Portfólio**: ()
-- **Email**: matheusluiz311@gmail.com
 
 
 
